@@ -4,6 +4,8 @@ Preview images should be sized to `500x375` for consistancy and site performace.
 
 Leverages the mobile responsive 'Helios' template from HTML5 UP (see description below)
 
+[Helios HTML5 UP template](https://html5up.net/uploads/demos/helios/)
+
 ```
 Helios by HTML5 UP
 html5up.net | @ajlkn
