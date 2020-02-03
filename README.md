@@ -1,5 +1,7 @@
 ## Personal portfolio
 
+[View the deployed portfolio at www.timothyparrish.com](https://timothyparrish.com/)
+
 Preview images should be sized to `500x375` for consistancy and site performace.
 
 Leverages the mobile responsive 'Helios' template from HTML5 UP (see description below)
